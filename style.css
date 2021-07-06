@@ -1,0 +1,49 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+section{
+    height: 600px;
+    padding-bottom: 200px;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1{
+    font-size: 50px;
+    padding-top: 15%;
+}
+h1 span{
+    color: rgb(73, 104, 7);
+}
+.half-width img{
+    width: 100%;
+    padding-bottom: 10%;
+}
+p{
+    color: dimgray;
+}
+.button{
+    text-decoration: none;
+    background: linear-gradient(45deg, rgb(238, 19, 19), rgb(251, 6, 198));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.top-coppy{
+    background-image: url("images/shapes/Frame\ 57.jpg");
+    background-repeat: no-repeat;
+    
+
+}
+.center{
+    text-align: center;
+}
+#recipies-colour{
+    color: darkgray;
+}
