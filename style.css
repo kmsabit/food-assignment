@@ -113,12 +113,12 @@ p{
     text-align: center;
 }
 .service-head {	
-    padding: 15px;
+    padding: 12px;
  }
 .service-head h1{
 	font-size: 30px;
     padding-bottom: 15px;
-    color: rgb(97, 90, 90);
+    color: rgb(230, 78, 78);
 }
 .service-head p{
 	max-width: 800px;
@@ -129,14 +129,14 @@ p{
 	
 }
 .service-item{
-    margin-top: 5%;
+    margin-top: 4%;
     display: flex;
     justify-content: space-between;
 }
 .service-type{
 	
     flex-basis: 31%;
-    background-color: rgb(248, 248, 255);
+    background-color: rgb(235, 235, 253);
     border-radius: 15px;
     margin-bottom: 5%;
     padding: 20px 12px;
@@ -151,36 +151,52 @@ p{
 }
 .service-type h3{
 	text-align: center;
-    font-weight: 600;
+    font-weight: 700;
     margin: 10px 0;
-    color: rgb(97, 90, 90);
+   
 }
 .service-type p{
     width: 100%;
-    padding: 10px;
+    padding: 13px;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 22px;
     color: rgb(97, 90, 90);
 }
 
 
 
 .man-power{
-    width: 80%;
-    
+    width: 60%;
     margin:auto;
     text-align: center;
+    margin-bottom: -100px;
 }
 .power-type{
     margin-top: 80px;
     display: flex;
     justify-content: space-between;
-    padding: 2% 12%;
+    padding: 1% 8%;
     border-radius: 15px;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px rgb(245, 205, 205);
 }
 .power-type h1{
     margin: 0;
     text-align: start;
 }
+.footer {
+    margin-top: -586px;
+    min-height: 50px;
+    text-align: center;
+    background-color: rgb(238, 36, 63);
+    color: mintcream;
+    margin-bottom: 20;
+}
+.footer h1{
+    padding-top: 30px;
+    color: rgb(128, 17, 238);
+}
+.footer h3{
+    color: rgb(22, 34, 253);
+}
+
 
